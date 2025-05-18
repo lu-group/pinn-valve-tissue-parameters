@@ -282,7 +282,7 @@ net.apply_output_transform(output_transform)
 data = dde.data.PDE(geomtime, pde, loss, anchors=pde_pts)
 
 model = dde.Model(data, net)
-loss = ["MSE"] * 10 + [hausdorff_distance]
+loss_type = ["MSE"] * 10 + [hausdorff_distance]
 model = dde.Model(data, net)
 external_trainable_variables = [c0_, c1_, c2_]
 variables = dde.callbacks.VariableValue(
@@ -291,7 +291,7 @@ variables = dde.callbacks.VariableValue(
 
 model.compile(
     "adam",
-    loss=loss,
+    loss=loss_type,
     lr=1e-3,
     decay=["step", 15000, 0.61],
     loss_weights=[1e-4] * 10 + [1],
