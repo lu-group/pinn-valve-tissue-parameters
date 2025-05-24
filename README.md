@@ -2,7 +2,7 @@
 
 # A Noninvasive Method for Determining Elastic Parameters of Valve Tissue Using Physics-Informed Neural Networks
 
-The data and code for the paper [W. Wu, M. Daneker, C. Herz, H. Dewey, J.A. Weiss, A.M. Pouch, L. Lu & M.A. Jolley. A Noninvasive Method for Determining Elastic Properties of Valve Tissue Using Physics-Informed Neural Networks *Acta Biomaterialia*, 2025](https://arxiv.org/abs/2409.19081).
+The data and code for the paper [W. Wu, M. Daneker, C. Herz, H. Dewey, J.A. Weiss, A.M. Pouch, L. Lu & M.A. Jolley. A Noninvasive Method for Determining Elastic Properties of Valve Tissue Using Physics-Informed Neural Networks, *Acta Biomaterialia*, 2025](https://arxiv.org/abs/2409.19081).
 
 ## Data
 All data are in the folder [data](data). The name preceding ".npy" indicates the data for a specified example. For example, "HLHS_TV_data.npy" contains data for the HLHS tricuspid valve example.
