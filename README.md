@@ -1,5 +1,3 @@
-> Under Construction
-
 # A Noninvasive Method for Determining Elastic Parameters of Valve Tissue Using Physics-Informed Neural Networks
 
 The data and code for the paper [W. Wu, M. Daneker, C. Herz, H. Dewey, J.A. Weiss, A.M. Pouch, L. Lu & M.A. Jolley. A Noninvasive Method for Determining Elastic Properties of Valve Tissue Using Physics-Informed Neural Networks, *Acta Biomaterialia*, 200, 283-298, 2025](https://www.sciencedirect.com/science/article/abs/pii/S1742706125003472).
