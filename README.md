@@ -32,7 +32,6 @@ If you use this data or code for academic research, you are encouraged to cite t
   title   = {A Noninvasive Method for Determining Elastic Parameters of Valve Tissue Using Physics-Informed Neural Networks}, 
   journal = {Acta Biomaterialia},
   volume  = {200},
-  number  = {},
   pages   = {283-298},
   year    = {2025},
   doi     = {https://doi.org/10.1016/j.actbio.2025.05.021}
