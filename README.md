@@ -2,7 +2,7 @@
 
 # A Noninvasive Method for Determining Elastic Parameters of Valve Tissue Using Physics-Informed Neural Networks
 
-The data and code for the paper [W. Wu, M. Daneker, C. Herz, H. Dewey, J.A. Weiss, A.M. Pouch, L. Lu & M.A. Jolley. A Noninvasive Method for Determining Elastic Properties of Valve Tissue Using Physics-Informed Neural Networks, *Acta Biomaterialia*, 2025](https://www.sciencedirect.com/science/article/abs/pii/S1742706125003472).
+The data and code for the paper [W. Wu, M. Daneker, C. Herz, H. Dewey, J.A. Weiss, A.M. Pouch, L. Lu & M.A. Jolley. A Noninvasive Method for Determining Elastic Properties of Valve Tissue Using Physics-Informed Neural Networks, *Acta Biomaterialia*, 200, 283-298, 2025](https://www.sciencedirect.com/science/article/abs/pii/S1742706125003472).
 
 ## Data
 All data are in the folder [data](data). The name preceding ".npy" indicates the data for a specified example. For example, "HLHS_TV_data.npy" contains data for the HLHS tricuspid valve example.
@@ -31,9 +31,9 @@ If you use this data or code for academic research, you are encouraged to cite t
   author  = {Wu, Wensi and Daneker, Mitchell and Herz, Christian and Dewey, Hannah and Weiss, Jeffrey A. and Pouch, Alison M. and Lu, Lu and Jolley, Matthew A.},
   title   = {A Noninvasive Method for Determining Elastic Parameters of Valve Tissue Using Physics-Informed Neural Networks}, 
   journal = {Acta Biomaterialia},
-  volume  = {},
+  volume  = {200},
   number  = {},
-  pages   = {},
+  pages   = {283-298},
   year    = {2025},
   doi     = {https://doi.org/10.1016/j.actbio.2025.05.021}
 }
